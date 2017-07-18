@@ -1,4 +1,6 @@
 # MECH-535
+This Matlab program computes the blade shape shape in a turbine for the given initial conditions.
+
 1. Run comp.m, incomp.m, analytical.m
 2. Run BladePlot3D and PropPlot2D
 
